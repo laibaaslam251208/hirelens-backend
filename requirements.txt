@@ -1,0 +1,7 @@
+flask
+flask-cors
+pymupdf
+huggingface_hub
+openai
+gunicorn
+
